@@ -1,7 +1,8 @@
 
 # Curso de Funciones Matemáticas para Data Science
 
-This is a collection of notebooks from the Math Functions for Data Science from Platzi
+This is a collection of notebooks from the Math Functions for Data Science from Platzi.
+https://platzi.com/cursos/funciones-matematicas/ 
 
 
 
